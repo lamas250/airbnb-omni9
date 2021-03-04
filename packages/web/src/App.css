@@ -64,7 +64,11 @@ body, input, button {
   padding: 0 15px;
   font-size: 16px;
 }
-
+.content form span{
+  font-weight: normal;
+  color: #999;
+  font-size: 12px;
+}
 .content button.btn {
   border: 0;
   border-radius: 2px;
@@ -83,3 +87,4 @@ body, input, button {
   background: #e14f50;
   transition-duration: 0.8s;
 }
+
